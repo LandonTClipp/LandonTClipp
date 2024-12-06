@@ -1,1 +1,3 @@
-[![Landon Clipp profile views](https://u8views.com/api/v1/github/profiles/11232769/views/day-week-month-total-count.svg)](https://u8views.com/github/LandonTClipp)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&duration=3000&pause=500&color=33FF33&background=101010&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=75&lines=SWE+%40+Lambda+Labs;Building+an+AI+Public+Cloud)](https://git.io/typing-svg)
+
+[![Lambda Labs](https://raw.githubusercontent.com/LandonTClipp/LandonTClipp.github.io/refs/heads/main/docs/images/lambda/1cc-grid-purple.png)](https://lambdalabs.com/)

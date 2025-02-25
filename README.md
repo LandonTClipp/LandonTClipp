@@ -3,3 +3,7 @@
 [![Lambda Labs](https://raw.githubusercontent.com/LandonTClipp/LandonTClipp.github.io/refs/heads/main/docs/images/lambda/1cc-grid-purple.png)](https://lambdalabs.com/)
 
 > Things are going to get a lot worse before they get worse.
+
+Peace and freedom for Ukraine.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/320px-Flag_of_Ukraine.svg.png)
